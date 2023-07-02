@@ -1,4 +1,3 @@
-from hdbscan import HDBSCAN
 from sklearn.cluster import AgglomerativeClustering, KMeans
 from data import DATA_DIR
 from reports import REPORT_DIR
